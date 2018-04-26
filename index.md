@@ -1,4 +1,4 @@
-## Notes
+## You deserve your freedom
 
 You deserve your freedom.
 
