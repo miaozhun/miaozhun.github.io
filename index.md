@@ -2,15 +2,15 @@
 
 You deserve your freedom.
 
-<html>
-    <p style="font-family:宋体;color:gray">独立之精神 自由之思想</p>
-    <p style="font-family:黑体;color:gray">独立之精神 自由之思想</p>
-    <p style="font-family:微软雅黑;color:gray">独立之精神 自由之思想</p>
-</html>
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+<html>
+    <p style="font-family:微软雅黑; color:gray; font-size:30px">独立之精神 自由之思想</p>
+</html>
+```
+
 
 ```markdown
 Syntax highlighted code block
