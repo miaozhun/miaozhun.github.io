@@ -1,4 +1,4 @@
-## Independent Spirit, Liberal Thoughts
+## Notes
 
 You deserve your freedom.
 
