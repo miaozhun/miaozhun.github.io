@@ -1,8 +1,6 @@
-# Independent Spirit, Liberal Thoughts
 ## Independent Spirit, Liberal Thoughts
-### Independent Spirit, Liberal Thoughts
 
-You deserve your freedom.
+### You deserve your freedom.
 
 ### Markdown
 
