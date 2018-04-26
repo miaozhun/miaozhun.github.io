@@ -2,11 +2,11 @@
 
 You deserve your freedom.
 
-<html>
+
     <p style="font-family:verdana;color:red">This text is in Verdana and red</p>
     <p style="font-family:times;color:green">This text is in Times and green</p>
     <p style="font-size:30px">This text is 30 pixels high</p>
-</html>
+
 
 ### Markdown
 
