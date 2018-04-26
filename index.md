@@ -3,17 +3,11 @@
 You deserve your freedom.
 
 
-### Markdown
+### 独立之精神 自由之思想
 
-
-<html>
- ```markdown
-    <p style="font-family:微软雅黑; color:gray; font-size:30px">独立之精神 自由之思想</p>
- ```
-</html>
 
  ```markdown
- 独立之精神 自由之思想
+ 飞雪连天射白鹿，笑书神侠倚碧鸳
  ```
 
 ```markdown
