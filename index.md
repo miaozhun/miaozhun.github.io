@@ -2,11 +2,11 @@
 
 You deserve your freedom.
 
-
-    <p style="font-family:verdana;color:red">This text is in Verdana and red</p>
-    <p style="font-family:times;color:green">This text is in Times and green</p>
-    <p style="font-size:30px">This text is 30 pixels high</p>
-
+<html>
+    <p style="font-family:宋体;color:gray">独立之精神 自由之思想</p>
+    <p style="font-family:黑体;color:gray">独立之精神 自由之思想</p>
+    <p style="font-family:微软雅黑;color:gray">独立之精神 自由之思想</p>
+</html>
 
 ### Markdown
 
