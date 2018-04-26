@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Onlyaim
 Description: Independent Spirit, Liberal Thoughts
 show_downloads: true
-github.is_project_page: true
+is_project_page: true
 github:
   repository_url: http://bioconductor.org/packages/DEsingle
   zip_url: http://bioconductor.org/packages/DEsingle
