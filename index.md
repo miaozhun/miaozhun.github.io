@@ -6,6 +6,6 @@ You deserve your freedom.
 ## Markdown
 
  ```markdown
- 飞雪连天射白鹿，笑书神侠倚碧鸳
+秋草尽，冬雪藏，天枢礼玉璜。
  ```
 
