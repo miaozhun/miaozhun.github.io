@@ -1,3 +1,5 @@
+![resume](https://github.com/miaozhun/miaozhun.github.io/blob/master/resume.png?raw=true)
+
 ## You deserve your freedom
 
 You deserve your freedom.
