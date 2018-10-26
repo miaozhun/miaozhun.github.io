@@ -4,7 +4,7 @@ description: Independent Spirit, Liberal Thoughts
 show_downloads: true
 github:
   is_project_page: true
-  repository_url: https://github.com/miaozhun/miaozhun.github.io/blob/master/resume.png?raw=true
-  zip_url: https://miaozhun.github.io/DEsingle
-  tar_url: http://bioconductor.org/packages/DEsingle
+  repository_url: https://miaozhun.github.io/DEsingle
+  zip_url: http://bioconductor.org/packages/DEsingle
+  tar_url: https://github.com/miaozhun/ImputeSingle
   
